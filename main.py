@@ -124,6 +124,6 @@ def get_monster_jobs():
 
 # Get job listings from Indeed and Monster
 get_indeed_jobs()
-get_monster_jobs()
+#get_monster_jobs()
 
 print("Job listings saved to job_listings_indeed.txt and job_listings_monster.txt")
